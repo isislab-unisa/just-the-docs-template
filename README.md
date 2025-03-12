@@ -1,4 +1,4 @@
-# ISISLab Template
+# ISISLab Template (Just a test for PRs)
 
 A starter template for a documentation site using the Just the Docs theme!
 
