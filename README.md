@@ -1,4 +1,6 @@
-# just-the-docs-template
+# ISISLab Template
+
+A starter template for a documentation site using the Just the Docs theme!
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
